@@ -1,3 +1,8 @@
+<<<<<<< HEAD
+=======
+# promiseitwonthurt
+
+>>>>>>> dcebe38410e04da0251dfd4a7655a15d67e466ac
 # FS-SP17-Lab8
 # Lab 08: Promise It Won't Hurt
 
